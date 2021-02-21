@@ -4,11 +4,11 @@
 
 ***Growth mindset*** is something like ***WELCOME TO THE NEW WORLD*** where there are:
 
-***Freedom***
+1.***Freedom***
 
-***Embrace challenges*** 
+2.***Embrace challenges*** 
 
-***Accept criticism***
+3.***Accept criticism***
 
 I am Yasmeen Alkhalili graduated from JUST as Electrical engineer. I hope to be a good developer and I am working hard to be there.
 I keep myself in a growth mindset by ***working hard*** , ***learn from my mistakes*** and every problem face me is a ***new challenge*** to know new things and develop myself.
@@ -17,3 +17,4 @@ For more details please contact me
 
 by email <jasmina201132@yahoo.com>
 or <https://github.com/yasmeenkhalili>
+<https://yasmeenkhalili.github.io/reading-notes/>
