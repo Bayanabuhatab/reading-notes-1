@@ -17,5 +17,4 @@ I keep myself in a growth mindset by ***working hard*** , ***learn from my mista
 For more details please contact me
 
 by email <jasmina201132@yahoo.com>
-
 or <https://github.com/yasmeenkhalili>
