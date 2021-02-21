@@ -1,5 +1,4 @@
-# reading-notes
-## Welcome to Yasmeen Alkhalili World's
+# Welcome to Yasmeen Alkhalili World's
 ## Growth mindset
 ![Growth mindset is cool](https://miro.medium.com/max/781/1*ninBE6iYHSbeHy5y3MxiOg.png)
 
