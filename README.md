@@ -6,3 +6,4 @@ I am Yasmeen Alkhalili graduated from JUST as Electrical engineer. I hope to be 
 | Mindset      | [https://yasmeenkhalili.github.io/reading-notes/mindset](mindset)       |
 | Markdown   | [https://github.com/yasmeenkhalili/reading-notes/markdown](markdown) 
  | Git      | [https://yasmeenkhalili.github.io/reading-notes/git](Git)       |
+ | Html design     | [https://yasmeenkhalili.github.io/reading-notes/desgin](Html)
