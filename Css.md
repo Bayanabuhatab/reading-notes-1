@@ -1,4 +1,4 @@
-#CSS
+# CSS
 CSS it belong to cascading style sheet, it allows us to style the content of the page .
 
 Example of styles :
