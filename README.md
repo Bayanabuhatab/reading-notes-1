@@ -8,3 +8,5 @@ I am Yasmeen Alkhalili graduated from JUST as Electrical engineer. I hope to be 
  | Git      | [https://yasmeenkhalili.github.io/reading-notes/git](Git)       |
  | Html design     | [https://yasmeenkhalili.github.io/reading-notes/desgin](design)
  | Css     | [https://yasmeenkhalili.github.io/reading-notes/Css](Css)
+ | Java     | [https://yasmeenkhalili.github.io/reading-notes/Java](Java)
+ | Computer     | [https://yasmeenkhalili.github.io/reading-notes/Computer](Computer)
