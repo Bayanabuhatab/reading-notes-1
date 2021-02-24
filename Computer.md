@@ -18,3 +18,6 @@ by using more ones & zeros we can represent more complex information , this repr
 
 Image contains many pixels and each pixel has a color which has a number so it can appear using binary number.
 Computer contains many electronics components that organized together to make a circuit.
+
+
+![Computer Structure](https://cdn4.explainthatstuff.com/how-computer-works.png)
